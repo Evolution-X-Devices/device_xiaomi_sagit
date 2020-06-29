@@ -10,8 +10,8 @@
     "branch"      : "ten"
   },
   {
-    "repository"  : "xiaomi-msm8998/kernel_xiaomi_msm8998",
+    "repository"  : "Dobsgw/kernel_xiaomi_msm8998",
     "target_path" : "kernel/xiaomi/msm8998",
-    "branch"      : "lineage-17.1"
+    "branch"      : "evox"
   }
 ]
